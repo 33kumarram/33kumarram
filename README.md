@@ -1,6 +1,5 @@
 - 👋 Hi, I am Ramesh Kumar
 - 👀 Interested in learning new things
-- 🌱 Currently learning Python
 - 💞️ Looking to collaborate on MERN Stack projects
 - 📫 rk3790690@gmail.com 
 
