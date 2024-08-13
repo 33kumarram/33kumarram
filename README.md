@@ -1,6 +1,7 @@
 - 👋 Hi, I am Ramesh Kumar
 - 👀 Interested in learning new things
 - 💞️ Looking to collaborate on MERN Stack projects
+- 👀 Currently mastering MySQL
 - 📫 rk3790690@gmail.com 
 
 <!---
